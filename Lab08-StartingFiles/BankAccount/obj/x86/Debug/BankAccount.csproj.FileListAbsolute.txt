@@ -1,0 +1,9 @@
+C:\Users\devon\Desktop\Lab08-StartingFiles\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\devon\Desktop\Lab08-StartingFiles\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\devon\Desktop\Lab08-StartingFiles\BankAccount\obj\x86\Debug\BankAccount.csprojResolveAssemblyReference.cache
+C:\Users\devon\Desktop\Lab08-StartingFiles\BankAccount\obj\x86\Debug\BankAccount.FrmTestAccounts.resources
+C:\Users\devon\Desktop\Lab08-StartingFiles\BankAccount\obj\x86\Debug\BankAccount.Properties.Resources.resources
+C:\Users\devon\Desktop\Lab08-StartingFiles\BankAccount\obj\x86\Debug\BankAccount.csproj.GenerateResource.cache
+C:\Users\devon\Desktop\Lab08-StartingFiles\BankAccount\obj\x86\Debug\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\devon\Desktop\Lab08-StartingFiles\BankAccount\obj\x86\Debug\BankAccount.exe
+C:\Users\devon\Desktop\Lab08-StartingFiles\BankAccount\obj\x86\Debug\BankAccount.pdb
